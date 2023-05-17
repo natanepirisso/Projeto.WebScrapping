@@ -16,9 +16,9 @@
 
 - **Realizei do zero um web scraping básico no Linkedin, onde ele procura por vagas de Serviços de publicidade ou Marketing e filtra sozinho a localidade, o tipo da vaga e o nível de experiência.**
 
-### Como ficou
+### Foto do resultado
 
-![](Filtros do Linkedin - Natan Risso Epifanio.png)
+![]("Filtros do Linkedin - Natan Risso Epifanio.png")
 
 ## Processo
 
