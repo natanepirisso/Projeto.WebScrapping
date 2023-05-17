@@ -4,6 +4,7 @@
 ## Tabela de conteúdos
 
 - [Overview](#overview)
+  - [Como ficou](#foto-do-resultado)
 - [Processo](#processo)
   - [Feito com](#feito-com)
   - [O que eu aprendi](#o-que-eu-aprendi)
@@ -13,9 +14,11 @@
 
 ## Overview
 
-- **Realizei do zero um web scraping básico no Linkedin, onde ele procura por vagas de Serviços de publicidade ou Marketing e filtra sozinho a localidade, o tipo da vaga e o nível de experiência**
+- **Realizei do zero um web scraping básico no Linkedin, onde ele procura por vagas de Serviços de publicidade ou Marketing e filtra sozinho a localidade, o tipo da vaga e o nível de experiência.**
 
+### Como ficou
 
+![](Filtros do Linkedin - Natan Risso Epifanio.png)
 
 ## Processo
 
@@ -44,11 +47,11 @@
 
   *Mesmo com o Python, Selenium e BS ativos, ainda sim são necessárias bibliotecas para que a varredura dos dados seja mais completa, então tive que correr atrás de algumas para que fosse possível fazer isso* 
 
-**Nota1**
-  *Tive que aprender também um pouco de JavaScript e relembrar um pouco de python para entender o que eu estava fazendo*
+**Nota1:**
+  *Tive que aprender também um pouco de JavaScript e relembrar um pouco de python para entender o que eu estava fazendo.*
 
-**Nota2**
-  *O projeto está incompleto. Por falta de tempo não consegui entregar totalmente o que o processo seletivo pedia, mas procuro finalizar breve*
+**Nota2:**
+  *O projeto está incompleto. Por falta de tempo não consegui entregar totalmente o que o processo seletivo pedia, mas procuro finalizar breve.*
 
 
 ## Autor
