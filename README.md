@@ -18,7 +18,7 @@
 
 ### Foto do resultado
 
-![]("Filtros do Linkedin - Natan Risso Epifanio.png")
+![](Filtros do Linkedin - Natan Risso Epifanio.png)
 
 ## Processo
 
