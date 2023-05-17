@@ -3,8 +3,7 @@
 
 ## Tabela de conteúdos
 
-- [Overview](#overview)
-  - [Como ficou](#foto-do-resultado)
+- [Introdução](#introdução)
 - [Processo](#processo)
   - [Feito com](#feito-com)
   - [O que eu aprendi](#o-que-eu-aprendi)
@@ -12,13 +11,9 @@
 - [Agradecimentos](#agradecimentos)
 
 
-## Overview
+## Introdução
 
 - **Realizei do zero um web scraping básico no Linkedin, onde ele procura por vagas de Serviços de publicidade ou Marketing e filtra sozinho a localidade, o tipo da vaga e o nível de experiência.**
-
-### Foto do resultado
-
-![](Filtros do Linkedin - Natan Risso Epifanio.png)
 
 ## Processo
 
