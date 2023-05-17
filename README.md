@@ -57,4 +57,4 @@
 
 ## Agradecimentos
 
-Um agradecimento especial pro viniciusorisso que me incentivou e me serviu como guia para esta tarefa.
+Um agradecimento especial ao viniciusorisso que me incentivou e me serviu como guia para esta tarefa.
